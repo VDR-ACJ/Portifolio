@@ -7,7 +7,7 @@
     border-radius: 1rem;
     transition: .25s;
 }
-.acordeon .open,
+.acordeon.open,
 .acordeon:hover{
     background-color: #55569e;
     border-color: #55569e;
@@ -36,6 +36,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('/assets/img/icons/arrow-top.svg');
+    transition: .25s;
 }
 
 .acordeon.open .trigger::after{
@@ -43,8 +44,14 @@
 }
 
 .acordeon .content{
-    display: none;
+   overflow: hidden;
+   height: 0;
+   opacity: 0;
+   transition: opacity .25s ease-in-out;
 }
 .acordeon.open .content{
     display: inline-block;
+    padding: 0 1rem 1rem 2rem;
+    height: auto;
+    opacity: 1;
 }
