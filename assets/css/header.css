@@ -40,6 +40,7 @@
     align-items: center;
     margin: 0.5rem;
 }
+
 .information p::before{
     content: '';
     width: 1rem;

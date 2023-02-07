@@ -19,7 +19,9 @@
     flex-direction: row;
     align-items: center;
     font-weight: 700;
+    margin: 0;
     margin-bottom: .5rem;
+
 }
 
 .portfolio li .title.github::before{
@@ -32,13 +34,3 @@
     background-image: url('/assets/img/icons/github.svg');
     margin-right: .5rem;
 }
-
-.portfolio li a{
-    color:#fff;
-    text-decoration: none;
-}
-.portfolio li a:hover{
-    color: #fff;
-    text-decoration: underline;
-}
-
