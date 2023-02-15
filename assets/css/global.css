@@ -8,8 +8,11 @@
 }
 
 body{
-    background-color: #000;
     color: #fff;
+    /*background: rgb(255,255,255);
+    background: linear-gradient(266deg, rgba(255,255,255,0.8856136204481793) 0%, rgba(162,162,166,1) 30%, rgba(0,0,0,0.8996192226890756) 100%);*/
+
+    background: linear-gradient(90deg, rgb(71 72 74 / 82%) 25%, rgba(54,55,59,1) 75%, rgba(32,33,36,0.8996192226890756) 50%);
 }
 a{
     color:#fff;
@@ -25,11 +28,13 @@ a:hover{
     margin: 1rem;
     border: 1px solid #fff;
     border-radius: 1rem;
+    
 }
 .main::before, main::after{
 content: '';
-background-image: url('/assets/img/background.svg');
-background-repeat: no-repeat;
+/*background-image: url('/assets/img/background.svg');
+background-repeat: no-repeat;*/
+
 background-size: contain;
 display: inline-block;
 position: fixed;
