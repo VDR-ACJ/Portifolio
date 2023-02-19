@@ -9,10 +9,16 @@
 }
 .acordeon.open,
 .acordeon:hover{
-    background-color: #969696;
-    border-color: #969696;
-    
+    /*background-color: #F2584B;
+    border-color: #A63C3C;*/
+    background: linear-gradient(#0D0C0B,#5A3122);
 }
+/*
+.acordeon:hover{
+    background-color: #969696;
+    border-color: #969696;   
+}
+*/
 /*.acordeon:hover{
     background-color: #55569e;
     border-color: #55569e;
