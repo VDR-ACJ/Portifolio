@@ -7,38 +7,57 @@
   "email": "valdeir.acj@outlook.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "ScriptCase",
-        "logo": "/assets/img/icons/tools/scriptcase.png"
-      },
+      
       {
         "name": "Android Studio",
         "logo": "/assets/img/icons/tools/android-studio-icon.png"
-      },
-      {
-        "name": "PHP",
-        "logo": "/assets/img/icons/languages/php.png"
-      },
-      {
-        "name": "JavaScript",
-        "logo": "/assets/img/icons/languages/js.png"
-      },
-      {
-        "name": "Java",
-        "logo": "/assets/img/icons/languages/java.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
         "name": "SQL Server",
         "logo": "/assets/img/icons/tools/sqlserver.png"
       },
       {
+        "name": "Java",
+        "logo": "/assets/img/icons/languages/java.png"
+      },
+      {
+        "name": "ScriptCase",
+        "logo": "/assets/img/icons/tools/scriptcase.png"
+      },
+      {
+        "name": "VSCODE",
+        "logo": "/assets/img/icons/languages/vscode.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "/assets/img/icons/languages/php.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "/assets/img/icons/languages/html.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "/assets/img/icons/languages/js.png"
+      },
+      
+      {
+        "name": "CSS",
+        "logo": "/assets/img/icons/languages/css.png"
+      },
+      {
+        "name": "SQLite",
+        "logo": "assets/img/icons/languages/sqlite.png"
+      },
+      {
         "name": "Mysql",
         "logo": "assets/img/icons/languages/mysql.png"
+      },
+      {
+        "name": "Firebase",
+        "logo": "assets/img/icons/languages/firebase.png"
       }
+      
     ],
     "softSkills": [
       "Trabalho em equipe",
@@ -49,7 +68,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)"
+    "Inglês (Avançado)"
   ],
   "portfolio": [
     {
@@ -65,19 +84,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor / Intertek",
+      "period": "2017 - até o momento",
+      "description": "Depois de um breve período de experiência comecei a desenvolver junto a equipe soluções de apoio a operação de campo e BackOffice, trazendo inúmeros benefícios, soluções e inovações para as linhas de negócios. Otimizando e digitalizando diversos processos foi uma das formas mais eficazes de coletar e analisar dados que antes demoravam muito tempo para serem analisados."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de Suporte de TI Jr / Intertek",
+      "period": "2013 - 2017",
+      "description": "Após adquirir um pouco de experiência, recebi uma oportunidade em uma empresa multinacional que presta diversos serviços de certificação e auditorias, já com a intenção de me qualificar para desenvolver soluções que vão além do suporte técnico, ajudando a melhorar a forma como são feitos os processos através de sistemas. "
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de Suporte de TI Jr / Latinofarma",
+      "period": "2011 - 2013",
+      "description": "Minha primeira experiência corporativa na área de tecnologia onde evolui bastante ao longo de dois anos tanto na parte de hardware quanto de software, atendendo todos os departamentos da empresa na resolução e suporte de diferentes situações."
     }
   ]
 }

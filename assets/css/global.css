@@ -10,6 +10,7 @@
 body{
     color: #fff;
     background:linear-gradient(#0D0C0B,#D9A362,#A66B36,#5A3122);
+    min-height: 100vh;
 }
 a{
     color: #5A3122;
@@ -26,7 +27,7 @@ a:hover{
     margin: 1rem;
     border: 1px solid #fff;
     border-radius: 1rem;
-    
+    background:linear-gradient(#0D0C0B,#D9A362,#A66B36,#5A3122);
 }
 .main::before, main::after{
 content: '';
