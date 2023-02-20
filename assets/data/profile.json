@@ -10,15 +10,15 @@
       
       {
         "name": "Android Studio",
-        "logo": "/assets/img/icons/tools/android-studio-icon.png"
+        "logo": "./assets/img/icons/tools/android-studio-icon.png"
       },
       {
         "name": "SQL Server",
-        "logo": "/assets/img/icons/tools/sqlserver.png"
+        "logo": "./assets/img/icons/tools/sqlserver.png"
       },
       {
         "name": "Java",
-        "logo": "/assets/img/icons/languages/java.png"
+        "logo": "./assets/img/icons/languages/java.png"
       },
       {
         "name": "ScriptCase",
@@ -26,36 +26,36 @@
       },
       {
         "name": "VSCODE",
-        "logo": "/assets/img/icons/languages/vscode.png"
+        "logo": "./assets/img/icons/languages/vscode.png"
       },
       {
         "name": "PHP",
-        "logo": "/assets/img/icons/languages/php.png"
+        "logo": "./assets/img/icons/languages/php.png"
       },
       {
         "name": "HTML",
-        "logo": "/assets/img/icons/languages/html.png"
+        "logo": "./assets/img/icons/languages/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "/assets/img/icons/languages/js.png"
+        "logo": "./assets/img/icons/languages/js.png"
       },
       
       {
         "name": "CSS",
-        "logo": "/assets/img/icons/languages/css.png"
+        "logo": "./assets/img/icons/languages/css.png"
       },
       {
         "name": "SQLite",
-        "logo": "assets/img/icons/languages/sqlite.png"
+        "logo": "./assets/img/icons/languages/sqlite.png"
       },
       {
         "name": "Mysql",
-        "logo": "assets/img/icons/languages/mysql.png"
+        "logo": "./assets/img/icons/languages/mysql.png"
       },
       {
         "name": "Firebase",
-        "logo": "assets/img/icons/languages/firebase.png"
+        "logo": "./assets/img/icons/languages/firebase.png"
       }
       
     ],
