@@ -22,7 +22,7 @@
       },
       {
         "name": "ScriptCase",
-        "logo": "/assets/img/icons/tools/scriptcase.png"
+        "logo": "./assets/img/icons/tools/scriptcase.png"
       },
       {
         "name": "VSCODE",
