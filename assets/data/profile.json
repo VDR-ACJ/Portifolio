@@ -72,13 +72,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto criado para conclusão da trilha de Machine Learning oferecida pela DIO em parceria com a EY.",
+      "url": "https://github.com/VDR-ACJ/EY_DIO_FAST_TRACK_ML",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto criado para DIO, a criação de uma Pokedex consumindo API REST com JavaScript",
+      "url": "https://github.com/VDR-ACJ/JS_POKEDEX_DIO",
+      "github": true
+    },
+    {
+      "name": "SUPERFLIX - projeto criado para o desafio 'Recriando interface do Netflix' usando HTML, CSS e JavaScript",
+      "url": "https://github.com/VDR-ACJ/_NetFlixProjectDIO",
       "github": true
     }
   ],
