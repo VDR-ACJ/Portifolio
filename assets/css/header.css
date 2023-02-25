@@ -42,7 +42,7 @@
     align-items: center;
     margin: .5rem;
     font-size: 1.125rem;
-    color: #5A3122;
+    color: #d0d0d0;
     filter: drop-shadow(1px 0px 0px #5A3122);
 }
 
@@ -90,5 +90,14 @@
     }
     .header .information{
         grid-area: information;
+    }
+    .information p{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: .5rem;
+        font-size: 1.125rem;
+        color: #fff;
+        filter: drop-shadow(1px 0px 0px #5A3122);
     }
 }
